@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nama_buku": "Hot Branding",
+        "penulis": "Ippho Santosa",
+        "price": 75000
+    },
+    {
+        "id": 2,
+        "nama_buku": "7 Keajaiban Rezeki",
+        "penulis": "Ippho Santosa",
+        "price": 75000
+    },
+    {
+        "id": 3,
+        "nama_buku": "7 Keajaiban Rezeki",
+        "penulis": "Ippho Santosa",
+        "price": 75000
+    }
+]
